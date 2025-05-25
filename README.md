@@ -2,7 +2,7 @@
 
 一個結合 AI 與 Streamlit 的智慧自薦信生成器，協助使用者根據職缺需求與自身履歷，自動產出量身訂做的求職自我推薦信，提升應徵效率與精準度。
 
-[https://coverletterai.azurerain4u.top](link)
+[link](https://coverletterai.azurerain4u.top)
 
 ## 專案特色
 
